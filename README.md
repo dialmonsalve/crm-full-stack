@@ -2,6 +2,7 @@
 
 A full stack client CRM created in node.js and react.js with Next, a mongo database with consults in GraphQL 
 
+
 What do you need to run this project?
 - node
 - npm
